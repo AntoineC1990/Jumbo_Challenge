@@ -32,14 +32,16 @@ pip install -e custom_grid
 
 ## Project Structure
 
-setup.py: Contains the package setup information.
-TESTZONE.py: Allows you to visualize the environment.
-model_training.py: Used for training the Deep Q-Network (DQN) model and saving it.
-model_load.py: Used to load a trained DQN model and visualize its performance.
+- setup.py: Contains the package setup information.
+- TESTZONE.py: Allows you to visualize the environment.
+- model_training.py: Used for training the Deep Q-Network (DQN) model and saving it.
+- model_load.py: Used to load a trained DQN model and visualize its performance.
+
 custom_grid/: A package for custom gym environments.
-custom_grid/init.py: Initializes the custom environment package.
-custom_grid/envs/init.py: Initializes the custom environment sub-package.
-custom_grid/envs/grid_world.py: Defines the custom grid world environment using Gym.
+
+- custom_grid/init.py: Initializes the custom environment package.
+- custom_grid/envs/init.py: Initializes the custom environment sub-package.
+- custom_grid/envs/grid_world.py: Defines the custom grid world environment using Gym.
 
 ## Packages
 
