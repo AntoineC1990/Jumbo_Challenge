@@ -1,9 +1,0 @@
-setup.py
-custom_grid/__init__.py
-custom_grid.egg-info/PKG-INFO
-custom_grid.egg-info/SOURCES.txt
-custom_grid.egg-info/dependency_links.txt
-custom_grid.egg-info/requires.txt
-custom_grid.egg-info/top_level.txt
-custom_grid/envs/__init__.py
-custom_grid/envs/grid_world.py
