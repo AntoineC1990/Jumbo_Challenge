@@ -46,9 +46,13 @@ custom_grid/: A package for custom gym environments.
 ## Packages
 
 NumPy: https://numpy.org
+
 Pygame: https://www.pygame.org
+
 Gym: https://gym.openai.com
+
 Setuptools: https://setuptools.readthedocs.io/en/latest/
+
 Stable Baselines3: https://stable-baselines3.readthedocs.io/en/master/
 
 # Usage
